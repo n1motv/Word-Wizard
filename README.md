@@ -105,7 +105,7 @@ python -c "import nltk; nltk.download('wordnet'); nltk.download('omw-1.4')"
 python word_wizard.py
 ```
 <p align="center">
-  <img src="assets/exemple.png" alt="logo" width="240"/>
+  <img src="assets/exemple.png" alt="logo"/>
 </p>
 
 ---
